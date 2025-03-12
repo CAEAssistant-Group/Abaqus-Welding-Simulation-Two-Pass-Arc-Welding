@@ -4,3 +4,9 @@
 <p align="center">
   <img width="750" src="Figures/1.jpg">
 </p>
+
+In this project, all theoretical concepts and modeling details are explained through videos and PDFs. This facilitates your learning process.
+
+<p align="center">
+  <img width="750" src="Figures/2.jpg">
+</p>
